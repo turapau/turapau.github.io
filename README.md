@@ -15,7 +15,7 @@ El sitio puede incluir:
 
 ## Objetivo
 
-El objetivo de esta web es recopilar y organizar contenidos educativos y recursos relacionados con el estudio, especialmente aquellos vinculados con la preparación de la PAU y la tecnología.
+El objetivo de esta web es recopilar y organizar contenidos educativos y recursos relacionados con el estudio, especialmente aquellos vinculados con la preparación de la PAU.
 
 ## Derechos de autor
 
