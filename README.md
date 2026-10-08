@@ -6,13 +6,11 @@ Web educativa personal de PAU, desde Andalucía.
 
 Este sitio reúne principalmente contenidos relacionados con inglés y tecnología, así como ejercicios y recursos educativos.
 
-Los ejercicios de inglés publicados en esta web corresponden exclusivamente a exámenes oficiales de PAU.
+Los ejercicios publicados en esta web corresponden exclusivamente a exámenes oficiales de PAU.
 
 El sitio puede incluir:
 
 - Ejercicios de exámenes oficiales de PAU.
-- Apuntes y materiales educativos.
-- Proyectos relacionados con tecnología.
 - Recursos y contenidos de apoyo al estudio.
 
 ## Objetivo
